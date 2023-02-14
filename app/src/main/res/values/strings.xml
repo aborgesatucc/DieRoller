@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">r</string>
+    <string name="d1_desc">Die One</string>
+    <string name="d2_desc">Die Two</string>
+    <string name="d3_desc">Die Three</string>
+    <string name="d4_desc">Die Four</string>
+    <string name="d5_desc">Die Five</string>
+    <string name="d6_desc">Die Six</string>
+</resources>
