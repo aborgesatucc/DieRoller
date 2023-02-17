@@ -69,7 +69,7 @@ fun DieImageWithButton() {
         }
 
         Button(onClick = { roll = (1..6).random() }) {
-            Text("Roll")
+            Text("Roll It")
         }
     }
 }
