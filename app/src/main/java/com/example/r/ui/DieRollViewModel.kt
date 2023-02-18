@@ -7,8 +7,8 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 
 data class DieUiState(
-    val rollNumber: Int = 0,
-    val rollCount: Int = 1
+    val rollNumber: Int = 1,
+    val rollCount: Int = 0
 )
 
 class DieRollViewModel : ViewModel() {
